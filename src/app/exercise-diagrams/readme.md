@@ -190,7 +190,7 @@ We try to be helpful about what went wrong and how to fix it.
 
 Instead of diving straight into code, take time to understand and document what you're building. This exercise will help you think through the problem domain and create a reference for future development.
 
-### Your Task:
+### Your Task
 
 Create a `flows.md` file in your project that documents:
 
@@ -198,7 +198,7 @@ Create a `flows.md` file in your project that documents:
 2. **Sequence Diagrams**: How do different parts of your system interact?
 3. **State Diagrams**: What are the possible states and transitions in your application?
 
-### Implementation Steps:
+### Implementation Steps
 
 1. **Create `flows.md`** in your project root or docs folder
 
@@ -225,7 +225,7 @@ Create a `flows.md` file in your project that documents:
    - Focus on clarity and completeness
    - Update as you build and learn more
 
-### Success Criteria:
+### Success Criteria
 
 - Clear documentation of your data model and relationships
 - Complete sequence flows for major user journeys
@@ -234,7 +234,7 @@ Create a `flows.md` file in your project that documents:
 - Living document that you actually reference and update
 - Better understanding of your application before you build it
 
-### Benefits You'll Experience:
+### Benefits You'll Experience
 
 - **Faster development**: Less time spent figuring out what to build
 - **Fewer bugs**: Edge cases discovered before coding
